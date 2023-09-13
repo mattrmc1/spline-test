@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/spline-test/static/css/main.073c9b0a.css",
+    "main.js": "/spline-test/static/js/main.413c812c.js",
+    "static/js/872.160396cb.chunk.js": "/spline-test/static/js/872.160396cb.chunk.js",
+    "static/js/227.b85d0bad.chunk.js": "/spline-test/static/js/227.b85d0bad.chunk.js",
+    "static/js/526.5908b807.chunk.js": "/spline-test/static/js/526.5908b807.chunk.js",
+    "static/js/232.39cea24a.chunk.js": "/spline-test/static/js/232.39cea24a.chunk.js",
+    "static/js/237.07f0dfbd.chunk.js": "/spline-test/static/js/237.07f0dfbd.chunk.js",
+    "static/js/787.65a32953.chunk.js": "/spline-test/static/js/787.65a32953.chunk.js",
+    "index.html": "/spline-test/index.html",
+    "main.073c9b0a.css.map": "/spline-test/static/css/main.073c9b0a.css.map",
+    "main.413c812c.js.map": "/spline-test/static/js/main.413c812c.js.map",
+    "872.160396cb.chunk.js.map": "/spline-test/static/js/872.160396cb.chunk.js.map",
+    "227.b85d0bad.chunk.js.map": "/spline-test/static/js/227.b85d0bad.chunk.js.map",
+    "526.5908b807.chunk.js.map": "/spline-test/static/js/526.5908b807.chunk.js.map",
+    "232.39cea24a.chunk.js.map": "/spline-test/static/js/232.39cea24a.chunk.js.map",
+    "237.07f0dfbd.chunk.js.map": "/spline-test/static/js/237.07f0dfbd.chunk.js.map",
+    "787.65a32953.chunk.js.map": "/spline-test/static/js/787.65a32953.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.413c812c.js"
+  ]
+}
